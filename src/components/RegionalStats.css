@@ -1,0 +1,20 @@
+.regional-stats {
+    margin: 20px;
+  }
+  
+  .regional-stats table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  
+  .regional-stats th,
+  .regional-stats td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .regional-stats th {
+    background-color: #f4f4f4;
+  }
+  
